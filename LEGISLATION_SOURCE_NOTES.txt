@@ -1,0 +1,34 @@
+LEGISLATION SECTION — SOURCE AND VERIFICATION NOTES
+
+Primary source: Jordan Ministry of Tourism and Antiquities, https://www.mota.gov.jo
+Last checked: 2026-11-19.
+
+Official categories:
+- Constitution: https://mota.gov.jo/AR/Pages/الدستور_الاردني
+- Laws: https://www.mota.gov.jo/Ar/List/القوانين
+- Regulations: https://mota.gov.jo/Ar/List/الانظمة
+- Instructions: https://www.mota.gov.jo/AR/List/التعليمات
+- Decisions: https://www.mota.gov.jo/AR/List/القرارات
+- Electronic consultation: https://www.mota.gov.jo/AR/List/التشاور_الالكتروني_حول_التشريعات
+
+Content visible in the ministry's current page extraction:
+- Constitution: official PDF, 2,184.15 KB. The PDF URL was opened successfully in the web source review.
+- Laws: 4 entries, page 1 of 1. The official list displays the titles and sizes. The Tourism Law PDF and Urban and Architectural Heritage Law PDF have official indexed PDF URLs.
+- Regulations: 10 entries are visible on page 1 of 3. The ministry indicates two further pages; their individual records were not available through the page extraction used in this update.
+- Instructions: 10 entries are visible on page 1 of 2. The ministry indicates one further page; its individual records were not available through the page extraction used in this update.
+- Decisions: one entry, “قرار المجلس الاعلى للسياحة بخصوص مهنة اقتسام الوقت عام 1999”, 279 KB.
+- Electronic consultation: “مشروع نظام صندوق تنمية وتطوير القطاع السياحي”. The page invites comments at Consult@mota.gov.jo; no closing date was displayed.
+
+PDF handling:
+- The Constitution PDF direct link is verified by opening the ministry-hosted PDF.
+- Direct official PDF links are supplied for the Tourism Law and Urban and Architectural Heritage Law where indexed official PDF pages were found.
+- For entries without a verified direct PDF URL, the record links to the corresponding official ministry category page. These links are not represented as direct PDF downloads.
+- The public page extraction exposes a shared PDF icon image rather than the underlying per-record document URLs, so remaining direct PDF addresses must not be guessed.
+
+Language handling:
+- The section interface is localized for Arabic, English, French, German, Spanish, Italian, Russian, Chinese, Turkish, Hungarian, and Bulgarian.
+- Official legal titles remain in Arabic to preserve the exact ministry wording; legal text is not paraphrased or machine-translated.
+
+Completion limitation:
+- The local index includes all 4 laws, the 10 regulation entries visible on page 1 of 3, the 10 instruction entries visible on page 1 of 2, the one visible decision, and the one consultation draft. It is not a complete transcription of every item in the two paginated categories. The official category links provide access to the ministry's full live lists.
+- Before publication, verify the remaining regulation and instruction pages and all individual PDF links from the ministry's native list controls.

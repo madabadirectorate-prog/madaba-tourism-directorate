@@ -1,0 +1,18 @@
+{
+  "name": "Madaba Tourism Directorate",
+  "short_name": "Madaba Tourism",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f9",
+  "theme_color": "#102b59",
+  "icons": [
+    {
+      "src": "assets/ministry-logo.jpg",
+      "sizes": "any",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}

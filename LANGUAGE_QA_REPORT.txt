@@ -1,0 +1,31 @@
+Language QA report — verification and language-switch fix (Pass 11)
+
+Supported languages (11): Arabic, English, French, German, Spanish, Italian, Russian, Chinese, Turkish, Hungarian, Bulgarian.
+
+Verified in source files:
+- All 210 shared interface/content keys are present and non-empty in each language record.
+- Every data-i key used in index.html resolves in all 11 language records; the navigation is an 11-item translated array.
+- All 20 Directorate profile fields exist in each language record, including the full introduction, achievements, vision, mission, values, organization, staff and 17 Directorate tasks.
+- All 19 map site names and all 19 site descriptions are present in each language, with six translated map category labels and 15 translated map-interface labels.
+- All 27 legislation display titles have localized versions in all ten non-Arabic languages. Original Arabic titles remain available for search and official-source traceability.
+- The three film titles, site labels, Google Maps link label, contact labels, service/profession labels, accessibility labels and page metadata have language-specific values.
+- No Arabic-script text was found in non-Arabic i18n values, Directorate profile fields, map names/descriptions, or localized legislation titles.
+- The requested St George's Church Google Maps URL is retained exactly.
+
+Code defect found and fixed during this verification:
+- setLanguage() used the single-element querySelector helper for three loops that update aria-label, image alt and title attributes. This could throw when changing language and prevent subsequent updates.
+- Changed those three selectors to querySelectorAll via the existing $$ helper, so every matching element is updated.
+- Incremented service-worker cache identifier to v22 so browsers do not keep the previous app.js after deployment.
+
+Validation performed:
+- JavaScript syntax checks passed for app.js, i18n.js, about-data.js and map-data.js.
+- Translation data was parsed and checked across all 11 languages for missing fields and empty values.
+- All 27 legislation titles checked in all ten non-Arabic languages.
+- ZIP integrity check passed after packaging.
+
+Scope and limitations:
+- This is a static website package and has not been deployed to GitHub Pages.
+- No repository settings, deployment URL or QR code were changed.
+- Ministry external pages and PDFs remain external and are not translated by this website package.
+- Text embedded in the supplied map brochure image is not dynamically translated.
+- Automated browser/device rendering test could not be completed in this environment; mobile and desktop visual verification remains necessary after opening the package in a browser.

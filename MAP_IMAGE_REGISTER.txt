@@ -1,0 +1,21 @@
+User-supplied Madaba tourism map photographs
+Images are preserved as supplied; no cropping or edits were applied.
+
+site-madaba-visitor-center.png <- image(20261117-080023).png
+site-dar-al-saraya.png <- image(20261117-080056).png
+site-mosaic-institute.png <- image(20261117-080057).png
+site-mount-nebo.png <- image(20261117-080106).png
+site-apostles-church-collage.png <- image(20261117-080127).png
+site-wadi-hidan.png <- image(20261117-080130).png
+site-main-hot-springs.png <- image(20261117-080301).png
+site-mukawir-castle-night.png <- image(20261117-080632).png
+site-beheading-john-baptist-church.png <- image(20261117-080705).png
+site-st-george-church.png <- image(20261117-080938).png
+site-burnt-palace-martyrs-church.png <- image(20261117-081114).png
+site-tell-dhiban-visitor-center.png <- image(20261117-081416).png
+
+Assignments:
+Madaba Visitor Center, Mosaic Institute, Dar Al-Saraya, Mount Nebo, Apostles Church (full collage retained as one image), Wadi Hidan, Ma'in Hot Springs, Mukawir Castle (night), Beheading of John the Baptist Church, St George Church, Burnt Palace/Martyrs Church (same supplied entrance image), Tell Dhiban Visitor Center.
+The supplied Burnt Palace/Martyrs Church photograph is shared between both adjacent records because it depicts the joint site sign; no duplicate-specific image was supplied.
+The following records still need matching verified photographs: Archaeological Park, Tourist Street, Madaba Archaeological Museum, Cathedral, Wadi Mujib, Wadi Wala.
+Geographic marker positions are not changed by this image update and remain subject to site-by-site entrance verification.
